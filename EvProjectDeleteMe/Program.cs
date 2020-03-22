@@ -22,6 +22,7 @@ namespace EvProjectDeleteMe
                 myEvent.NoBoom += Vasya.ThisBoom;
                 myEvent.CallNoBoom();
             }
+            Console.Beep(1000, 2000);
             
             
         }
